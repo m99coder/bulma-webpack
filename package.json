@@ -1,0 +1,23 @@
+{
+  "name": "bulma-webpack",
+  "version": "1.0.0",
+  "description": "> Bulma Customization with Webpack Bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m99coder/bulma-webpack.git"
+  },
+  "keywords": [],
+  "author": "Marco Lehmann <m99coder@gmail.com> (https://m99.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m99coder/bulma-webpack/issues"
+  },
+  "homepage": "https://github.com/m99coder/bulma-webpack#readme",
+  "dependencies": {
+    "bulma": "^0.9.0"
+  }
+}
