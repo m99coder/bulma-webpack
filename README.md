@@ -29,4 +29,5 @@ npm install bulma --save
 
 ```bash
 npm install webpack webpack-cli --save-dev
+npm install css-loader sass-loader node-sass mini-css-extract-plugin --save-dev
 ```
