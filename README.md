@@ -31,3 +31,12 @@ npm install bulma --save
 npm install webpack webpack-cli --save-dev
 npm install css-loader sass-loader node-sass mini-css-extract-plugin --save-dev
 ```
+
+```json
+{
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development"
+  }
+}
+```
