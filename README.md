@@ -6,6 +6,7 @@
 
 * Customize Bulma
 * Optimize bundle size
+* Implement critical path styling
 
 ## Command History
 
@@ -23,5 +24,9 @@ git push -u origin master
 ```bash
 echo "node_modules" > .gitignore
 npm init -y
-npm install bulma --save-dev
+npm install bulma --save
+```
+
+```bash
+npm install webpack webpack-cli --save-dev
 ```
